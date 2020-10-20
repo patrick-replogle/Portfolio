@@ -1,3 +1,5 @@
+# Patrick Replogle Portfolio
+
 I am a full stack web developer and music nerd at heart from Portland, OR. Some technologies I use are React, Javascript, Python, Node, CSS, HTML, Graphql, Postgres, SQL, Redux, Context API, Apollo and Express. Feel free to get in touch using my contact info below if you want to network or collaborate on a project.
 
 |[Patrick Replogle](https://github.com/patrick-replogle) |                                                                                                                                                                    
